@@ -1,2 +1,3 @@
-# Algorithm_Java
-This is where I practice implementations of algorithms in Java
+# Algorithm_Python
+This is where I practice implementations of algorithms in Python
+
